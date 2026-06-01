@@ -72,3 +72,5 @@ def run_pipeline(config_path='config.txt'):
 
 
 run_pipeline()
+                        #Day 6 completed
+                        
